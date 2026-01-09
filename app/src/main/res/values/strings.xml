@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidTest3</string>
+    <string name="txt_lista_de_personajes">Lista de Personajes</string>
+</resources>
